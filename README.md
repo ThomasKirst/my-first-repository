@@ -8,4 +8,6 @@ The next 3 months will be a very exciting time, as I will learn new things every
 
 [Follow the link](https://www.neuefische.de)
 
-![Place kitten](www.placekitten.com/300/300)
+![Place kitten](http://www.placekitten.com/300/400)
+
+![A random image](https://source.unsplash.com/random/400x200)
